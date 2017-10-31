@@ -1,0 +1,1 @@
+# This is a Bayes network for my carrer plan. It is haed for us to make choice when we try to make a decision. Therefore, to avoid emotional decision, a decision reference which are designed totally according to a reasoningly inference will be reasonable.
